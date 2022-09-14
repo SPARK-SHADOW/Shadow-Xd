@@ -1,0 +1,30 @@
+{
+  "name": "Shadow-Xd",
+  "version": "1.0.0",
+  "description": "NPM Package by Spark-Shadow",
+  "main": "src/stack.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SPARK-SHADOW/Shadow-Xd.git"
+  },
+  "author": "Spark-Shadow",
+  "license": "GNU",
+  "dependencies": {
+    "@adiwajshing/baileys": "git+https://github.com/adiwajshing/Baileys.git",
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "axios": "^0.27.2",
+    "yt-search": "^2.7.4",
+    "ytdl-core": "^4.8.3"
+  },
+  "devDependencies": {},
+  "bugs": {
+    "url": "https://github.com/SPARK-SHADOW/Shadow-Xd/issues"
+  },
+  "homepage": "https://github.com/SPARK-SHADOW/Shadow-Xd#readme"
+}
